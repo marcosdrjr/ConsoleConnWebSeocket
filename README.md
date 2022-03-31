@@ -1,2 +1,2 @@
-# ConsoleConnWebSeocket
-ConsoleConnWebSeocket
+# ConsoleConnWebSocket
+ConsoleConnWebSocket
